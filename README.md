@@ -35,14 +35,18 @@ Calculator/
 │
 ├── src/
 │   ├── main/
-│   │   └── java/
+│   │   ├── java/
+│   │   │   ├── Main.java
+│   │   │   └── Calculator.java
+│   │
 │   └── test/
 │       └── java/
+│           └── CalculatorTest.java
 │
 ├── .github/
 │   └── workflows/
-│       └── testJava.yml
+│       └── test-java.yml
 │
 ├── .gitignore
 └── README.md
-```
+``` 
