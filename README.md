@@ -24,18 +24,19 @@
 
 ## Project Structure
 
-
+```text
 Calculator/
 │
 ├── src/
-│ ├── main/
-│ │ └── java/
-│ └── test/
-│ └── java/
+│   ├── main/
+│   │   └── java/
+│   └── test/
+│       └── java/
 │
 ├── .github/
-│ └── workflows/
-│ └── test-java.yml
+│   └── workflows/
+│       └── test-java.yml
 │
 ├── .gitignore
 └── README.md
+```
