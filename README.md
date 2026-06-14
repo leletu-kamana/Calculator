@@ -6,6 +6,8 @@
 
 - A simple calculator application developed in Java that performs basic arithmetic operations.
 
+---
+
 ## Features
 
 - Addition
@@ -16,11 +18,15 @@
 - Input validation
 - Error handling
 
+---
+
 ## Technologies Used
 
 - Java
 - JUnit (for testing)
 - GitHub Actions (CI/CD)
+
+---
 
 ## Project Structure
 
@@ -35,7 +41,7 @@ Calculator/
 │
 ├── .github/
 │   └── workflows/
-│       └── test-java.yml
+│       └── testJava.yml
 │
 ├── .gitignore
 └── README.md
