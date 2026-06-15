@@ -45,7 +45,7 @@ Calculator/
 │
 ├── .github/
 │   └── workflows/
-│       └── test-java.yml
+│       └── testJava.yml
 │
 ├── .gitignore
 └── README.md
